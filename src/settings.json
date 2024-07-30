@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "NewsletterSideBySideOnCard",
+      "variables": {
+        "buttonText": "Sign Up Now",
+        "emailLabel": "Enter your email for work \u0026 productivity updates",
+        "heading": "Stay Balanced with Water Healthy Tips",
+        "privacyPolicyText": "We prioritize your privacy. Review our"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health.",
+        "title": "Achieve Wellness at Work with Balance"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Achieve Wellness at Work with Balance",
+  "subtitle": "The perfect hydration solution to fuel your productivity and maintain optimal health."
+}
